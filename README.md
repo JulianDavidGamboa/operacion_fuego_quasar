@@ -26,7 +26,7 @@ Dillinger uses a number of open source projects to work properly:
 
 MIT
 
-   [documentacion]: <https://documenter.getpostman.com/view/8056845/2s93sW8FGm>
+   [documentacion]: <https://documenter.getpostman.com/view/8056845/2s93sW8FGm> {:target="_blank"}
    [Spring Boot]: <https://spring.io/projects/spring-boot>
    [AWS]: <https://aws.amazon.com/es/>
    [MAVEN]: <https://maven.apache.org/>
