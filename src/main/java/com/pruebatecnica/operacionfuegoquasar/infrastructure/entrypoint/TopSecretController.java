@@ -31,9 +31,6 @@ public class TopSecretController {
     @PostMapping()
     public ResponseEntity getUbicationAndMessage(@RequestBody TopSecretRequest request) {
 
-        // Point location = new Point(100, 200);
-
-
         if(!validateRequest.isRequestValid(request)) {
             MessageResponse errorResponse = new MessageResponse(HttpStatus.NOT_FOUND, "Parametros incorrectos.");
             return ResponseEntity.status(HttpStatus.NOT_FOUND).body(errorResponse);
