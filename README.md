@@ -25,8 +25,7 @@ Dillinger uses a number of open source projects to work properly:
 ## Arquitectura empleada en el proyecto
 
 - Para el desarrollo del proyecto se trató de trabajar bajo la arquitectura hexagonal tambien llamada arquitectura de puertos y adaptadores
-
-![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/f5ff166d-327c-4dfe-89fe-8e9e564da836)
+![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/b917b752-098a-4e59-93c6-e258a20f7e6f)
 
 
 ## License
