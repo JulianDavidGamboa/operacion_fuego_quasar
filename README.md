@@ -7,11 +7,11 @@
 
 Dillinger uses a number of open source projects to work properly:
 
-- [IntelliJ IDEA] -Entorno de desarrollo!
-- [Spring Boot] - awesome web-based text editor
-- [AWS] - Markdown parser done right. Fast and easy to extend.
-- [MAVEN] - great UI boilerplate for modern web apps
-- [JDK 20] - evented I/O for the backend
+- [IntelliJ IDEA] -Entorno de desarrollo.
+- [Spring Boot] - marco de desarrollo de aplicaciones Java.
+- [AWS] - servicio en la nube.
+- [MAVEN] - herramienta de gestión de proyectos de software.
+- [JDK 20] - conjunto de herramientas y recursos para desarrollar aplicaciones en Java.
 
 ## Autor
 
