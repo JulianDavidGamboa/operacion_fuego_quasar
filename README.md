@@ -1,5 +1,6 @@
 # Operacion fuego de quasar
-![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/2b738608-a929-4fd6-a04c-dad0f904dae4)
+![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/2377c0e5-de3d-4cf3-adc3-0285d333c89c)
+
 
 ![jdk](https://img.shields.io/badge/java-JDK_20-blue) ![coverage](https://img.shields.io/scrutinizer/coverage/g/JulianDavidGamboaRoa/operacion_fuego_quasar/main)
 
@@ -27,7 +28,8 @@ Dillinger uses a number of open source projects to work properly:
 - Para el desarrollo del proyecto se trató de trabajar bajo la arquitectura hexagonal tambien llamada arquitectura de puertos y adaptadores
 
 
-![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/b917b752-098a-4e59-93c6-e258a20f7e6f)
+![image](https://github.com/JulianDavidGamboa/operacion_fuego_quasar/assets/47681333/4b8e8553-eb56-46f4-a572-8bdffc954d77)
+
 
 
 ## License
